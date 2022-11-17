@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
